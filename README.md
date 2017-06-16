@@ -23,7 +23,7 @@ For `APPLICATION_NAME`, substitute a short string that will identify your applic
 ```go
 import (
   "log/syslog"
-  "github.com/Sirupsen/logrus"
+  "github.com/sirupsen/logrus"
   "github.com/zbindenren/logrus_mail"
 )
 
